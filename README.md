@@ -4,18 +4,11 @@ Documentación del curso de soporte TI de Generation, primer evaluación
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+En este repositorio se muestran los documentos resultado de nuestra presentación sobre permisos de Linux y otros comandos, una pequeña actividad para probar los conocimientos expuestos en un roleplay pasado y una breve narración paso a paso sobre nuestro proceso para hacer toda la presentación. 
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
-### Pre-requisitos 📋
-
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
 
 ### Instalación 🔧
 

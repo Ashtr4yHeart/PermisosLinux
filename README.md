@@ -17,9 +17,9 @@ Documentación versión 1
 
 ## Autores ✒️
 
-Rebeca Rodriguez 
-Karol Carrazco
-Edith Rodriguez
+Rebeca Rodriguez,  
+Karol Carrazco, 
+Edith Rodriguez, 
 Abraham Juarez
 
 ## Expresiones de Gratitud 🎁

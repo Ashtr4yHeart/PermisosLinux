@@ -29,4 +29,3 @@ Quiero agradecer a Karol por la idea de usar una voz artificial para ayudarnos a
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
